@@ -35,6 +35,7 @@ function validateschemeId() {
 }
 
 module.exports = {
+  checkSchemeId,
 	validateschemeId,
 }
 
